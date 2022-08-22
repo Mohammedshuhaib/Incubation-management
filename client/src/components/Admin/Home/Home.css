@@ -1,0 +1,11 @@
+.header {
+    height: 100px;
+     /* color: aqua; */
+    background-color: rgb(116, 211, 237);
+}
+
+.tableContainer{
+    /* max-width: max-content; */
+    overflow-x: auto;
+    /* overflow-y: hidden; */
+}
